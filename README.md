@@ -1,2 +1,5 @@
 # learn-html
-Обучение по html/js
+Обучение по:
+ - html
+ - js
+ - css
